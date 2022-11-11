@@ -1,4 +1,4 @@
-# Live Chat App
+# UI Library
 
 ## Table of contents
 * [General info](#general-info)
@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-Simple Live chat app
+Simple UI Library
 
 ## Technologies
 Project is created with:
@@ -15,11 +15,10 @@ Project is created with:
 * Babel
 * HTML5
 * CSS
-* Bootstrap
 
 ## Setup
 To run this project you can do it in two ways.
 
-The first way is to click on this [link]().
+The first way is to click on this [link](https://ui-library-beige.vercel.app/).
 
 The other way is to download the whole project and run it in your browser.
